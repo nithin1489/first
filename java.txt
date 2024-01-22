@@ -1,0 +1,8 @@
+public class java{
+public static void main(String args[]){
+a=12;
+b=45;
+x=a+b;
+system.out.println("x")
+}
+}
